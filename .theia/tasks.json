@@ -5,7 +5,7 @@
       "type": "shell",
       "label": "g++ build active file",
       "command": "/usr/bin/g++",
-      "args": ["-g", "/workspace/test/main.c", "-o", "/workspace/test/a.out"],
+      "args": ["-g", "/workspace/template-c/main.c", "-o", "/workspace/template-c/a.out"],
       "options": {
         "cwd": "/usr/bin"
       },
